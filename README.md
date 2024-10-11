@@ -1,3 +1,5 @@
+Hi 👋 I'm Catherine Bugarin
+
 # 💫 About Me:
 I am a third-year Information Technology student at The National Teachers College, passionate about exploring the realms of coding, machine learning, and building robust applications.<br><br>
 
