@@ -18,4 +18,4 @@ Design: ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-
 Others: ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=cthrnb&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=cthrnb&label=Profile%20Views&color=3&icon=5&pretty=true)](https://visitcount.itsvg.in)
