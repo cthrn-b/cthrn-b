@@ -3,7 +3,7 @@ I am a third-year Information Technology student at The National Teachers Colleg
 
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white_https://linkedin.com/in/BugarinCatherine) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/BugarinCatherine) 
 
 
 # 💻 Tech Stack:
