@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-I am a third-year Information Technology student at The National Teachers College whose is enthusiastic about coding, machine learning, and developing innovative applications.<br><br>
+I am a fourth-year Information Technology student at The National Teachers College whose is enthusiastic about coding, machine learning, and developing innovative applications.<br><br>
 
 
 ## 🌐 Connect with me:
