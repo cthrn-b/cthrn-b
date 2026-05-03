@@ -77,16 +77,6 @@ Passionate about creating modern digital experiences, building user-friendly sys
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=cthrn-b&show_icons=true&theme=tokyonight" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cthrn-b&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 📢 Currently Seeking Opportunities
 
 ✔ Front-End Developer  
@@ -101,7 +91,7 @@ Passionate about creating modern digital experiences, building user-friendly sys
 
 📧 cthrnbugarin@gmail.com  
 🌐 https://catherine-bugarin.netlify.app/  
-💼 LinkedIn: linkedin.com/in/catherine-bugarin
+💼 LinkedIn: [linkedin.com/in/catherine-bugarin](https://www.linkedin.com/in/catherine-bugarin/)
 
 ---
 
