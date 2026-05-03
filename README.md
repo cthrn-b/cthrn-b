@@ -1,21 +1,110 @@
 <h1 align="center">Hi 👋 I'm Catherine Bugarin</h1>
+<h3 align="center">Incoming IT Graduate (August 2026) • UI/UX Designer • Web Developer</h3>
 
+<p align="center">
+Passionate about creating modern digital experiences, building user-friendly systems, and solving real-world problems through technology.
+</p>
 
-# 💫 About Me:
-I am a fourth-year Information Technology student at The National Teachers College whose is enthusiastic about coding, machine learning, and developing innovative applications.<br><br>
-
-
-## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bugarin-catherine/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cthrnbugarin@gmail.com) 
-
-
-# 💻 Tech Stack:
-
-Languages: ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-Design: ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-
-Others: ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<p align="center">
+<a href="https://catherine-bugarin.netlify.app/" target="_blank">🌐 Portfolio</a> •
+<a href="https://github.com/cthrn-b" target="_blank">💻 GitHub</a> •
+<a href="https://www.linkedin.com/in/catherine-bugarin/" target="_blank">💼 LinkedIn</a> •
+<a href="mailto:cthrnbugarin@gmail.com">📧 Email</a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=cthrnb&label=Profile%20Views&color=3&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
+## 💼 About Me
+
+🎓 Bachelor of Information Technology Graduate (August 2026)  
+🏫 National Teachers College – Manila  
+
+💡 Detail-oriented and creative IT graduate with hands-on experience in:
+
+- UI/UX Design
+- Web Development
+- Front-End Development
+- Data Management
+- Graphic Design
+- System Prototyping
+
+🚀 Currently open for full-time opportunities in tech.
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,python,figma,github,vscode,arduino" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🐾 Pet's Mate – Web-Based Pet Healthcare Management System
+- Full-stack healthcare system for pet clinics
+- Appointment scheduling, inventory, notifications
+- Role-based login system
+- Responsive UI
+
+### 💊 Automated Medicine Dispenser
+- Arduino-based smart dispenser
+- RTC timed scheduling
+- LCD feedback display
+- Sensors + alert system
+
+### 🚗 CR87 Car Marketplace App
+- Premium mobile UI/UX prototype in Figma
+- Search, filter, product browsing
+- Modern automotive marketplace concept
+
+### ❤️ FoundaReach Donation App
+- Donation mobile app prototype
+- User-friendly flows and accessibility-first design
+
+---
+
+## 💼 Internship Experience
+
+### Ablaze Marketing — Intern (486 Hours)
+
+- CRM system prototype design in Figma
+- Promotional graphics & branding materials
+- Data validation & reporting
+- Website content management
+- Client support & business operations
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=cthrn-b&show_icons=true&theme=tokyonight" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cthrn-b&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📢 Currently Seeking Opportunities
+
+✔ Front-End Developer  
+✔ UI/UX Designer  
+✔ Web Developer  
+✔ IT Support  
+✔ Entry-Level Tech Roles  
+
+---
+
+## 🤝 Let's Connect
+
+📧 cthrnbugarin@gmail.com  
+🌐 https://catherine-bugarin.netlify.app/  
+💼 LinkedIn: linkedin.com/in/catherine-bugarin
+
+---
+
+<p align="center">
+✨ Thank you for visiting my profile ✨
+</p>
