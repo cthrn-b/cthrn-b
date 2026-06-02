@@ -8,7 +8,7 @@ Passionate about creating modern digital experiences, building user-friendly sys
 <p align="center">
 <a href="https://catherine-bugarin.netlify.app/" target="_blank">🌐 Portfolio</a> •
 <a href="https://github.com/cthrn-b" target="_blank">💻 GitHub</a> •
-<a href="https://www.linkedin.com/in/catherine-bugarin/" target="_blank">💼 LinkedIn</a> •
+<a href="https://www.linkedin.com/in/catherine--bugarin/" target="_blank">💼 LinkedIn</a> •
 <a href="mailto:cthrnbugarin@gmail.com">📧 Email</a>
 </p>
 
