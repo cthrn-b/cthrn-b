@@ -91,7 +91,7 @@ Passionate about creating modern digital experiences, building user-friendly sys
 
 📧 cthrnbugarin@gmail.com  
 🌐 https://catherine-bugarin.netlify.app/  
-💼 LinkedIn: [linkedin.com/in/catherine-bugarin](https://www.linkedin.com/in/catherine-bugarin/)
+💼 LinkedIn: [linkedin.com/in/catherine--bugarin](https://www.linkedin.com/in/catherine--bugarin/)
 
 ---
 
