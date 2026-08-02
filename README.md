@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Catherine Bugarin</h1>
+<h1 align="center">Hi, I'm Catherine Bugarin</h1>
 
 <h3 align="center">
 🎓 Magna Cum Laude • Bachelor of Information Technology <br>
@@ -18,26 +18,26 @@ Passionate about building user-centered applications, designing intuitive interf
 
 ---
 
-# 👩‍💻 About Me
+# About Me
 
-🎓 **Magna Cum Laude** graduate with a **Bachelor of Information Technology** from **National Teachers College (2026).**
+**Magna Cum Laude** graduate with a **Bachelor of Information Technology** from **National Teachers College (2026).**
 
 I'm passionate about developing software that is functional, accessible, and user-friendly. Through academic projects, internship experience, and freelance work, I've gained hands-on experience in web development, UI/UX design, database management, and cloud technologies.
 
-### 💡 Areas of Interest
+### Areas of Interest
 
-- 🌐 Full-Stack Web Development
-- 🎨 UI/UX Design
-- 🧪 Software Quality Assurance (QA)
-- ☁️ Cloud Technologies
-- 📊 Database Management
-- 🤖 IoT & Embedded Systems
+- Full-Stack Web Development
+- UI/UX Design
+- Software Quality Assurance (QA)
+- Cloud Technologies
+- Database Management
+- IoT & Embedded Systems
 
-🚀 **Currently open to full-time opportunities in Software QA, Web Development, UI/UX Design, and other entry-level IT roles.**
+**Currently open to full-time opportunities in Software QA, Web Development, UI/UX Design, and other entry-level IT roles.**
 
 ---
 
-# 🛠️ Tech Stack
+# Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,mysql,sqlite,git,github,figma,vscode,arduino" />
@@ -55,9 +55,9 @@ I'm passionate about developing software that is functional, accessible, and use
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
-## 🐾 Pet's Mate – Web-Based Pet Healthcare Management System
+## Pet's Mate – Web-Based Pet Healthcare Management System
 
 A full-stack healthcare management platform for veterinary clinics featuring:
 
@@ -70,7 +70,7 @@ A full-stack healthcare management platform for veterinary clinics featuring:
 
 ---
 
-## 💊 Automated Medicine Dispenser
+## Automated Medicine Dispenser
 
 Arduino-powered medicine dispenser designed for reliable medication scheduling.
 
@@ -84,7 +84,7 @@ Arduino-powered medicine dispenser designed for reliable medication scheduling.
 
 ---
 
-## 🚗 CR87 Car Marketplace
+## CR87 Car Marketplace
 
 A premium automotive marketplace UI/UX prototype designed in Figma featuring:
 
@@ -94,13 +94,13 @@ A premium automotive marketplace UI/UX prototype designed in Figma featuring:
 
 ---
 
-## ❤️ FoundaReach
+## FoundaReach
 
 A donation platform prototype focused on accessibility and intuitive user experience.
 
 ---
 
-# 💼 Experience
+# Experience
 
 ## Ablaze Marketing
 
@@ -114,37 +114,37 @@ A donation platform prototype focused on accessibility and intuitive user experi
 
 ---
 
-# 🏆 Achievements
+# Achievements
 
-🥇 **Magna Cum Laude**  
+**Magna Cum Laude**  
 Bachelor of Information Technology  
 National Teachers College (2026)
 
 ---
 
-# 📢 Open to Opportunities
+# Open to Opportunities
 
 I'm currently looking for roles in:
 
-- 🧪 Software Quality Assurance (QA)
-- 💻 Web Development
-- 🎨 UI/UX Design
-- 🖥️ Technical Support
-- 🌐 Front-End Development
-- 🚀 Entry-Level IT Positions
+- Software Quality Assurance (QA)
+- Web Development
+- UI/UX Design
+- Technical Support
+- Front-End Development
+- Entry-Level IT Positions
 
 ---
 
-# 🤝 Let's Connect
+# Let's Connect
 
-📧 **Email:** cthrnbugarin@gmail.com
+**Email:** cthrnbugarin@gmail.com
 
-🌐 **Portfolio:** https://catherine-bugarin.netlify.app/
+**Portfolio:** https://catherine-bugarin.netlify.app/
 
-💼 **LinkedIn:** https://www.linkedin.com/in/catherine--bugarin/
+**LinkedIn:** https://www.linkedin.com/in/catherine--bugarin/
 
 ---
 
 <p align="center">
-⭐ Thanks for visiting my GitHub profile! Feel free to explore my repositories and connect with me.
+Thanks for visiting my GitHub profile! Feel free to explore my repositories and connect with me.
 </p>
