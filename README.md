@@ -1,8 +1,12 @@
 <h1 align="center">Hi 👋 I'm Catherine Bugarin</h1>
-<h3 align="center">Incoming IT Graduate (August 2026) • UI/UX Designer • Web Developer</h3>
+
+<h3 align="center">
+🎓 Magna Cum Laude • Bachelor of Information Technology <br>
+💻 Web Developer • UI/UX Designer • Aspiring Software QA Engineer
+</h3>
 
 <p align="center">
-Passionate about creating modern digital experiences, building user-friendly systems, and solving real-world problems through technology.
+Passionate about building user-centered applications, designing intuitive interfaces, and solving real-world problems through technology.
 </p>
 
 <p align="center">
@@ -14,87 +18,133 @@ Passionate about creating modern digital experiences, building user-friendly sys
 
 ---
 
-## 💼 About Me
+# 👩‍💻 About Me
 
-🎓 Bachelor of Information Technology Graduate (August 2026)  
-🏫 National Teachers College – Manila  
+🎓 **Magna Cum Laude** graduate with a **Bachelor of Information Technology** from **National Teachers College (2026).**
 
-💡 Detail-oriented and creative IT graduate with hands-on experience in:
+I'm passionate about developing software that is functional, accessible, and user-friendly. Through academic projects, internship experience, and freelance work, I've gained hands-on experience in web development, UI/UX design, database management, and cloud technologies.
 
-- UI/UX Design
-- Web Development
-- Front-End Development
-- Data Management
-- Graphic Design
-- System Prototyping
+### 💡 Areas of Interest
 
-🚀 Currently open for full-time opportunities in tech.
+- 🌐 Full-Stack Web Development
+- 🎨 UI/UX Design
+- 🧪 Software Quality Assurance (QA)
+- ☁️ Cloud Technologies
+- 📊 Database Management
+- 🤖 IoT & Embedded Systems
+
+🚀 **Currently open to full-time opportunities in Software QA, Web Development, UI/UX Design, and other entry-level IT roles.**
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,python,figma,github,vscode,arduino" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,php,mysql,sqlite,git,github,figma,vscode,arduino" />
 </p>
 
----
+### Technologies
 
-## 🚀 Featured Projects
-
-### 🐾 Pet's Mate – Web-Based Pet Healthcare Management System
-- Full-stack healthcare system for pet clinics
-- Appointment scheduling, inventory, notifications
-- Role-based login system
-- Responsive UI
-
-### 💊 Automated Medicine Dispenser
-- Arduino-based smart dispenser
-- RTC timed scheduling
-- LCD feedback display
-- Sensors + alert system
-
-### 🚗 CR87 Car Marketplace App
-- Premium mobile UI/UX prototype in Figma
-- Search, filter, product browsing
-- Modern automotive marketplace concept
-
-### ❤️ FoundaReach Donation App
-- Donation mobile app prototype
-- User-friendly flows and accessibility-first design
+- **Languages:** HTML, CSS, JavaScript, PHP
+- **Frameworks:** React.js, Node.js
+- **Databases:** MySQL, SQLite, Supabase
+- **Cloud:** AWS S3, Backblaze B2
+- **Design:** Figma, Canva
+- **Version Control:** Git & GitHub
+- **Hardware:** Arduino UNO, ESP32
 
 ---
 
-## 💼 Internship Experience
+# 🚀 Featured Projects
 
-### Ablaze Marketing — Intern (486 Hours)
+## 🐾 Pet's Mate – Web-Based Pet Healthcare Management System
 
-- CRM system prototype design in Figma
-- Promotional graphics & branding materials
-- Data validation & reporting
-- Website content management
-- Client support & business operations
+A full-stack healthcare management platform for veterinary clinics featuring:
 
----
-
-## 📢 Currently Seeking Opportunities
-
-✔ Front-End Developer  
-✔ UI/UX Designer  
-✔ Web Developer  
-✔ IT Support  
-✔ Entry-Level Tech Roles  
+- Appointment Management
+- Digital Pet Records
+- Inventory Management
+- Role-Based Access Control
+- Automated Notifications
+- Cloud Storage Integration
 
 ---
 
-## 🤝 Let's Connect
+## 💊 Automated Medicine Dispenser
 
-📧 cthrnbugarin@gmail.com  
-🌐 https://catherine-bugarin.netlify.app/  
-💼 LinkedIn: [linkedin.com/in/catherine--bugarin](https://www.linkedin.com/in/catherine--bugarin/)
+Arduino-powered medicine dispenser designed for reliable medication scheduling.
+
+**Features**
+
+- RTC Scheduling
+- Stepper Motor Automation
+- LCD Display
+- IR Sensor Detection
+- Alert & Reminder System
+
+---
+
+## 🚗 CR87 Car Marketplace
+
+A premium automotive marketplace UI/UX prototype designed in Figma featuring:
+
+- Modern Interface
+- Smart Search & Filtering
+- Responsive Mobile Experience
+
+---
+
+## ❤️ FoundaReach
+
+A donation platform prototype focused on accessibility and intuitive user experience.
+
+---
+
+# 💼 Experience
+
+## Ablaze Marketing
+
+**Sales & Marketing Intern (486 Hours)**
+
+- Designed CRM system prototypes using Figma
+- Managed website content updates
+- Improved business data accuracy
+- Produced promotional and branding materials
+- Assisted with reporting, documentation, and customer support
+
+---
+
+# 🏆 Achievements
+
+🥇 **Magna Cum Laude**  
+Bachelor of Information Technology  
+National Teachers College (2026)
+
+---
+
+# 📢 Open to Opportunities
+
+I'm currently looking for roles in:
+
+- 🧪 Software Quality Assurance (QA)
+- 💻 Web Development
+- 🎨 UI/UX Design
+- 🖥️ Technical Support
+- 🌐 Front-End Development
+- 🚀 Entry-Level IT Positions
+
+---
+
+# 🤝 Let's Connect
+
+📧 **Email:** cthrnbugarin@gmail.com
+
+🌐 **Portfolio:** https://catherine-bugarin.netlify.app/
+
+💼 **LinkedIn:** https://www.linkedin.com/in/catherine--bugarin/
 
 ---
 
 <p align="center">
-✨ Thank you for visiting my profile ✨
+⭐ Thanks for visiting my GitHub profile! Feel free to explore my repositories and connect with me.
 </p>
